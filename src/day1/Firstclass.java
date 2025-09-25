@@ -8,6 +8,7 @@ public static void main(String[] args)
 	System.out.println("welcome to hyderabad");
 	System.out.println("reshma is a good girl");
 	System.out.println("osman is a good boy");
+	System.out.println("iam proud to say indian");	
 	
 		}
 

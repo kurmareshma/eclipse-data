@@ -1,8 +1,8 @@
 package day1;
-public class Fifthclass 
+public class fifthfile 
 {
   public static void main(String[] args)
   {
-    system.out.println("fifthclass");
+    System.out.println("fifthclass");
   }
 }
